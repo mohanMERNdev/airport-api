@@ -7,7 +7,7 @@ Clone the repository: git clone <repository-url>
 Navigate to project directory: cd airport-api
 Install dependencies: npm install
 Start the server: npm start
-Access the API at http://localhost:3000
+Access the API at 
 Database: SQLite database (alldata.db) with tables:
 
 airport: Stores airport details.
